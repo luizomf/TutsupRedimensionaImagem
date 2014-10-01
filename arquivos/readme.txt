@@ -1,0 +1,1 @@
+Essa pasta receberá os arquivos de exemplo.
